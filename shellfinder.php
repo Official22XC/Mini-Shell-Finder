@@ -1,7 +1,6 @@
 <?php
 /*
 Mini Shell Page Finder
-Jan Apus Codex Gayn
 Hargai Kami:)
 */
 ?>
